@@ -1,0 +1,5 @@
+.env
+.env_email
+*__pycache__
+*migrations
+.idea
